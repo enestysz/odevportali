@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angularproje-61bcc": {
+      "hosting": {
+        "fbuyg": [
+          "angularproje-61bcc"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angularproje-61bcc"
+  }
+}
